@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity
                         .setAction("Action", null).show();
             }
         });
-        System.out.println("muahah");
+        System.out.println("tenta aceitar muahah");
+        System.out.println("tenta aceitar muahah");
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
